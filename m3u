@@ -50,10 +50,7 @@ http://39.136.48.21:8089/PLTV/88888888/224/3221226395/index.m3u8
 http://10.0.0.1:5888/rtp/239.45.1.69:5140
 #http://10.0.0.1:5888/rtp/239.45.3.54:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[我的IPTV]",CCTV5+
-http://39.135.55.39:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
-#http://39.135.55.39:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
-#http://39.135.55.39:6610/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
-#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
 #http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
@@ -74,21 +71,18 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[我的IPTV]",CCTV12
 http://10.0.0.1:5888/rtp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[我的IPTV]",CCTV13
-http://39.135.55.39:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-#http://39.135.55.39:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[我的IPTV]",CCTV14
 http://10.0.0.1:5888/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[我的IPTV]",CCTV15
-http://39.135.55.39:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
-#http://39.135.55.39:6610/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #http://117.148.179.169/TVOD/88888888/224/3221231693/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="[我的IPTV]",CCTV16
 http://10.0.0.1:5888/rtp/239.45.0.11:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[我的IPTV]",CCTV17
 http://10.0.0.1:5888/rtp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="[我的IPTV]",CCTV4K
-http://39.135.55.39:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
-#http://117.148.179.135/PLTV/88888888/224/3221233400/index.m3u8
+http://117.148.179.135/PLTV/88888888/224/3221233400/index.m3u8
 #http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="[我的IPTV]",CCTV8K
 #http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
@@ -122,7 +116,7 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000315/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/" group-title="[我的IPTV]",杭州体育
 http://117.148.179.135/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/629f45afee3b5.jpg" group-title="[我的IPTV]",福建文体
-http://39.135.55.39:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://upload.112114.xyz/logo/广州竞赛.png" group-title="[我的IPTV]",广州竞赛
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="[我的IPTV]",CCTV风云足球
@@ -132,17 +126,9 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="[我的IPTV]",CCTV高尔夫网球
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[我的IPTV]",凤凰资讯
-http://39.135.55.39:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#http://iptv.tvfix.org/hls/fhzx.m3u8
-#http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
-#http://124.232.233.16:6610/000000001001/201500000231/index.m3u8?m3u8_level=2&ispcode=3
-#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="[我的IPTV]",凤凰中文
-http://39.135.55.39:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#http://iptv.tvfix.org/hls/fhzw.m3u8
-#http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
-#http://124.232.233.16:6610/000000001001/201500000230/index.m3u8?m3u8_level=2&ispcode=3
-#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="[我的IPTV]",凤凰香港
 
 
@@ -196,10 +182,8 @@ http://10.0.0.1:5888/rtp/239.45.3.238:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="[我的IPTV]",湖北卫视
 http://10.0.0.1:5888/rtp/239.45.3.239:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="[我的IPTV]",厦门卫视
-http://39.135.55.39:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://upload.112114.xyz/logo/海峡卫视.png" group-title="[我的IPTV]",海峡卫视
-http://39.135.55.39:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
-#http://39.135.49.209:6610/PLTV/88888888/224/3221227198/1.m3u8?servicetype=1
 
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="[我的IPTV]",CHC家庭影院
@@ -214,7 +198,7 @@ http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 #http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg" group-title="[我的IPTV]",黑莓电影
-http://39.135.55.39:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
+
 #EXTINF:-1 group-title="[我的IPTV]",CCTV电视指南
  
 #EXTINF:-1 group-title="[我的IPTV]",CCTV文化精品
@@ -466,7 +450,3 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233104/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233097/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg" group-title="[咪咕直播]",咪咕直播12
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233092/index.m3u8
-
-
-
-

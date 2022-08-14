@@ -22,7 +22,7 @@ http://10.0.0.1:5888/rtp/239.45.3.210:5140
 http://10.0.0.1:5888/rtp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="[我的IPTV]",上海纪实
 http://10.0.0.1:5888/rtp/239.45.3.212:5140
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="[我的IPTV]",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="https://upload.112114.xyz/logo/乐游.png" group-title="[我的IPTV]",乐游
 http://10.0.0.1:5888/rtp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/上海教育电视.png" group-title="[我的IPTV]",上海教育
 http://10.0.0.1:5888/rtp/239.45.0.13:5140
@@ -399,3 +399,4 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播G14
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
+

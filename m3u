@@ -6,7 +6,7 @@ http://10.0.0.1:5888/rtp/239.45.3.146:5140
 http://10.0.0.1:5888/rtp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="[我的IPTV]",第一财经
 http://10.0.0.1:5888/rtp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="1985" tvg-name="东方财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SITV东方财经.png" group-title="[我的IPTV]",东方财经
+#EXTINF:-1 tvg-id="1985" tvg-name="东方财经" tvg-logo="https://upload.112114.xyz/logo/SITV东方财经.png" group-title="[我的IPTV]",东方财经
 http://10.0.0.1:5888/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://upload.112114.xyz/logo/SITV都市剧场.png" group-title="[我的IPTV]",都市剧场
 http://10.0.0.1:5888/rtp/239.45.3.136:5140

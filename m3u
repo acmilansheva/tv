@@ -258,3 +258,26 @@ http://10.0.0.1:5888/rtp/239.45.1.54:5140
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube代理",中天新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="Youtube代理",TVBS 56
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=YvdcZ_jpLXE&P=1080
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="Youtube代理",TVBS国际+
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=gWMj_2fHrLc&P=1080
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="Youtube代理",TVBS新闻台
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=2mCSYvcfhtc&P=1080
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="Youtube代理",東森新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=R2iMq5LKXco&P=1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube代理",寰宇新闻台
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Youtube代理",中视新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&P=1080
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png" group-title="Youtube代理",台视新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=xL0ch83RAK8&P=1080
+#EXTINF:-1 tvg-id="6071" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png" group-title="Youtube代理",民视新闻
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="Youtube代理",三立新闻+
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" tvg-logo="" group-title="Youtube代理",三立海外直播
+https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=FoBfXvlOR6I&P=1080
+

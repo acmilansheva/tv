@@ -245,8 +245,7 @@ http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[我的IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="Youtube代理",凤凰资讯
-https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ng7hd-0AHtk&P=1080
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube代理",中天新闻
 https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="Youtube代理",TVBS 56

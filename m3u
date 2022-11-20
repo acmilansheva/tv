@@ -46,6 +46,8 @@ http://10.0.0.1:5888/rtp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="[我的IPTV]",CCTV5
 http://10.0.0.1:5888/rtp/239.45.1.69:5140
 #http://10.0.0.1:5888/rtp/239.45.3.54:5140
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[我的IPTV]",CCTV5+
+http://10.0.0.1:5888/rtp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="[我的IPTV]",CCTV6
 http://10.0.0.1:5888/rtp/239.45.1.70:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[我的IPTV]",CCTV7
@@ -249,8 +251,6 @@ http://10.0.0.1:5888/rtp/239.45.0.31:5140
 http://10.0.0.1:5888/rtp/239.45.0.32:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
 http://10.0.0.1:5888/rtp/239.45.0.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.34:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通4K测试
 http://10.0.0.1:5888/rtp/239.45.1.106:5140

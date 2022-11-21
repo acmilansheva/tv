@@ -73,9 +73,7 @@ http://10.0.0.1:5888/rtp/239.45.0.12:5140
 #http://10.0.0.1:5888/rtp/239.45.0.11:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[我的IPTV]",CCTV17
 http://10.0.0.1:5888/rtp/239.45.3.52:5140
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="[我的IPTV]",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="[我的IPTV]",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -267,6 +265,7 @@ http://10.0.0.1:5888/rtp/239.45.1.29:5140
 http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[我的IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
+
 
 #EXTINF:-1 group-title="[体育赛事]",体育赛事
 https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGmBAwh_WmtAWOaSwBSk7wEgYPaLJetKoCk_9FDXYt7V_lyAC3zG734WmL9ec5q0m-MCmkIxoSAje8_KDDJ-6OmRec2JlmMnKC3MVpa34UJChYVwxbUuLjOU-h4rVR3IEn3DpNwpyFUDBRudHYzMs9HYRMb65Zx9W0pJ6-KDp0yApzJIfHRq_Quj62XWMgqNiLInIcexAQQmI0wKsjNiayfwYo1FZYiIg&expire=637cd2ef&sign=60cf02970d15324acb330a6c47bf578b&abr_pts=-1800

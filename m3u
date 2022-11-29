@@ -268,3 +268,8 @@ http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
 
 #EXTINF:-1 group-title="[体育赛事]",体育赛事
+
+#EXTINF:-1 tvg-id="NowSports618" tvg-name="Now Sports 618"  group-title="NOW系列" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_425_305.png" group-title="" ,Now Sports 618
+https://pull-l3-cny.douyincdn.com/live/a14ba2c4b8b017a06c5da2b95a04f766.flv
+#EXTINF:-1 tvg-id="NowSports619" tvg-name="Now Sports 619"  group-title="NOW系列" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_425_305.png" group-title="" ,Now Sports 619
+https://pull-l3-cny.douyincdn.com/live/d07300e4f303b838b009cdfa2224c090.flv

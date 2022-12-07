@@ -86,8 +86,6 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #http://iptv.tvfix.org/hls/mlzqhd.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/FTV%E8%B6%B3%E7%90%83.webp" group-title="[我的IPTV]",FTV足球频道
 http://10.0.0.1:5888/rtp/239.45.3.22:5140
-#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://upload.112114.xyz/logo/广州竞赛.png" group-title="[我的IPTV]",广州竞赛
-http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="[我的IPTV]",江苏卫视
 http://10.0.0.1:5888/rtp/239.45.3.177:5140
@@ -138,18 +136,6 @@ http://10.0.0.1:5888/rtp/239.45.3.232:5140
 http://10.0.0.1:5888/rtp/239.45.3.238:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="[我的IPTV]",湖北卫视
 http://10.0.0.1:5888/rtp/239.45.3.239:5140
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="[我的IPTV]",CHC家庭影院
-http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#http://117.148.179.155/TVOD/88888888/224/3221231799/index.m3u8
-#http://117.148.179.172/PLTV/88888888/224/3221231799/index.m3u8
-#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="[我的IPTV]",CHC高清电影
-http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
-#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="[我的IPTV]",CHC动作电影
-http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
-#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通4K电影
 http://10.0.0.1:5888/rtp/239.45.1.9:5140
@@ -265,6 +251,5 @@ http://10.0.0.1:5888/rtp/239.45.1.29:5140
 http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[我的IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
-
 
 #EXTINF:-1 group-title="[体育赛事]",体育赛事

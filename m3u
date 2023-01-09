@@ -148,7 +148,7 @@ http://10.0.0.1:5888/rtp/239.45.1.1:5140
 #http://10.0.0.1:5888/rtp/239.45.1.11:5140
 
 
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="[我的IPTV]",纪实科教
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/北京纪实科教.png" group-title="[我的IPTV]",纪实科教
 http://10.0.0.1:5888/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="[我的IPTV]",金鹰纪实
 http://10.0.0.1:5888/rtp/239.45.1.45:5140

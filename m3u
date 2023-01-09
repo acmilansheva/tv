@@ -64,7 +64,7 @@ http://10.0.0.1:5888/rtp/239.45.0.18:5140
 http://10.0.0.1:5888/rtp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="[我的IPTV]",CCTV13
 http://10.0.0.1:5888/rtp/239.45.0.19:5140
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="[我的IPTV]",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.112114.xyz/logo/cn/cctv/CCTV-14.png" group-title="[我的IPTV]",CCTV14
 http://10.0.0.1:5888/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="[我的IPTV]",CCTV15
 http://10.0.0.1:5888/rtp/239.45.0.20:5140

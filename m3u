@@ -33,45 +33,45 @@ http://10.0.0.1:5888/rtp/239.45.0.13:5140
 http://10.0.0.1:5888/rtp/239.45.1.127:5140
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV1.png" group-title="[我的IPTV]",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="[我的IPTV]",CCTV1
 http://10.0.0.1:5888/rtp/239.45.3.145:5140
 #http://10.0.0.1:5888/rtp/239.45.1.108:5140
 #http://10.0.0.1:5888/rtp/239.45.3.88:5140
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV2.png" group-title="[我的IPTV]",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="[我的IPTV]",CCTV2
 http://10.0.0.1:5888/rtp/239.45.0.1:5140
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV3.png" group-title="[我的IPTV]",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="[我的IPTV]",CCTV3
 http://10.0.0.1:5888/rtp/239.45.1.68:5140
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV4.png" group-title="[我的IPTV]",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="[我的IPTV]",CCTV4
 http://10.0.0.1:5888/rtp/239.45.0.2:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV5.png" group-title="[我的IPTV]",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="[我的IPTV]",CCTV5
 http://10.0.0.1:5888/rtp/239.45.1.69:5140
 #http://10.0.0.1:5888/rtp/239.45.3.54:5140
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV5+.png" group-title="[我的IPTV]",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="[我的IPTV]",CCTV5+
 http://10.0.0.1:5888/rtp/239.45.0.34:5140
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV6.png" group-title="[我的IPTV]",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="[我的IPTV]",CCTV6
 http://10.0.0.1:5888/rtp/239.45.1.70:5140
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV7.png" group-title="[我的IPTV]",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="[我的IPTV]",CCTV7
 http://10.0.0.1:5888/rtp/239.45.3.56:5140
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV8.png" group-title="[我的IPTV]",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="[我的IPTV]",CCTV8
 http://10.0.0.1:5888/rtp/239.45.1.71:5140
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV9.png" group-title="[我的IPTV]",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="[我的IPTV]",CCTV9
 http://10.0.0.1:5888/rtp/239.45.3.4:5140
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV10.png" group-title="[我的IPTV]",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="[我的IPTV]",CCTV10
 http://10.0.0.1:5888/rtp/239.45.3.8:5140
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV11.png" group-title="[我的IPTV]",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="[我的IPTV]",CCTV11
 http://10.0.0.1:5888/rtp/239.45.0.18:5140
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV12.png" group-title="[我的IPTV]",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="[我的IPTV]",CCTV12
 http://10.0.0.1:5888/rtp/239.45.3.10:5140
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV13.png" group-title="[我的IPTV]",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="[我的IPTV]",CCTV13
 http://10.0.0.1:5888/rtp/239.45.0.19:5140
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV14.png" group-title="[我的IPTV]",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="[我的IPTV]",CCTV14
 http://10.0.0.1:5888/rtp/239.45.3.23:5140
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV15.png" group-title="[我的IPTV]",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="[我的IPTV]",CCTV15
 http://10.0.0.1:5888/rtp/239.45.0.20:5140
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV16.png" group-title="[我的IPTV]",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="[我的IPTV]",CCTV16
 http://10.0.0.1:5888/rtp/239.45.0.12:5140
 #http://10.0.0.1:5888/rtp/239.45.0.11:5140
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTV17.png" group-title="[我的IPTV]",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="[我的IPTV]",CCTV17
 http://10.0.0.1:5888/rtp/239.45.3.52:5140
 
 

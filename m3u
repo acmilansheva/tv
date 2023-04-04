@@ -172,9 +172,9 @@ http://10.0.0.1:5888/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="[我的IPTV]",快乐垂钓
 http://10.0.0.1:5888/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="[我的IPTV]",茶频道
-
+http://10.0.0.1:5888/rtp/239.45.3.18:5140
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/陶瓷频道HD.png" group-title="[我的IPTV]",陶瓷
-http://10.0.0.1:5888/rtp/239.45.3.50:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/629f45f55ce75.jpg" group-title="[我的IPTV]",东方购物-1
 http://10.0.0.1:5888/rtp/239.45.3.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/629f45f55ce75.jpg" group-title="[我的IPTV]",东方购物-2

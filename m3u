@@ -241,7 +241,7 @@ http://10.0.0.1:5888/rtp/239.45.1.54:5140
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
 #EXTINF:-1 group-title="[体育赛事]",体育赛事
-
+http://10.0.0.1:5888/rtp/239.45.1.75:5140
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[Youtube代理]",凤凰资讯
 http://10.0.0.2:35455/youtube/Zm4i_rvAcxc

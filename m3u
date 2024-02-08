@@ -19,7 +19,6 @@ http://10.0.0.1:5888/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="[我的IPTV]",欢笑剧场
 http://10.0.0.1:5888/rtp/239.45.1.4:5140
 #http://10.0.0.1:5888/rtp/239.45.1.23:5140
-#http://10.0.0.1:5888/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="[我的IPTV]",五星体育频道
 http://10.0.0.1:5888/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="[我的IPTV]",上海纪实
@@ -73,6 +72,14 @@ http://10.0.0.1:5888/rtp/239.45.0.12:5140
 #http://10.0.0.1:5888/rtp/239.45.0.11:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="[我的IPTV]",CCTV17
 http://10.0.0.1:5888/rtp/239.45.3.52:5140
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="[我的IPTV]",CCTV风云足球
+http://10.0.0.1:5888/rtp/239.45.1.75:5140
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="[我的IPTV]",CCTV高尔夫网球
+http://10.0.0.1:5888/rtp/239.45.1.72:5140
+#EXTINF:-1 group-title="[我的IPTV]",CCTV电视指南
+ http://10.0.0.1:5888/rtp/239.45.1.73:5140
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="[我的IPTV]",CCTV兵器科技
+http://10.0.0.1:5888/rtp/239.45.1.74:5140
 
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="[我的IPTV]",新视觉
@@ -204,44 +211,16 @@ http://10.0.0.1:5888/rtp/239.45.3.140:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/cn/besttv.png" group-title="[我的IPTV]",百视通10
 http://10.0.0.1:5888/rtp/239.45.3.157:5140
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.23:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.24:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.25:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.26:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.27:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.28:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.29:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.30:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.31:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通live
-http://10.0.0.1:5888/rtp/239.45.0.33:5140
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BesTV4K.png" group-title="[我的IPTV]",百视通4K测试
 http://10.0.0.1:5888/rtp/239.45.1.108:5140
 
-#EXTINF:-1 group-title="[我的IPTV]",空中课堂二年级
-http://10.0.0.1:5888/rtp/239.45.1.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/崇明电视台.png" group-title="[我的IPTV]",崇明电视台
 http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[我的IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
 #EXTINF:-1 group-title="[体育赛事]",体育赛事
-http://10.0.0.1:5888/rtp/239.45.1.75:5140
+
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[Youtube代理]",凤凰资讯
 http://10.0.0.2:35455/youtube/Zm4i_rvAcxc

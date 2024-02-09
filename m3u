@@ -76,9 +76,9 @@ http://10.0.0.1:5888/rtp/239.45.3.52:5140
 http://10.0.0.1:5888/rtp/239.45.1.75:5140
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="[我的IPTV]",CCTV高尔夫网球
 http://10.0.0.1:5888/rtp/239.45.1.72:5140
-#EXTINF:-1 group-title="[我的IPTV]",CCTV电视指南
+#EXTINF:-1 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="[我的IPTV]",CCTV电视指南
  http://10.0.0.1:5888/rtp/239.45.1.73:5140
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="[我的IPTV]",CCTV兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png"  group-title="[我的IPTV]",CCTV兵器科技
 http://10.0.0.1:5888/rtp/239.45.1.74:5140
 
 

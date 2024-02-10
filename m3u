@@ -223,7 +223,7 @@ http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[Youtube代理]",凤凰资讯
-http://10.0.0.2:35455/youtube/Zm4i_rvAcxc
+http://10.0.0.2:35455/youtube/0K6C6Rv4RR4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="[Youtube代理]",中天新闻
 http://10.0.0.2:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="[Youtube代理]",中天新闻2台
@@ -235,13 +235,13 @@ http://10.0.0.2:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="[Youtube代理]",TVBS
 http://10.0.0.2:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="[Youtube代理]",寰宇新闻
-http://10.0.0.2:35455/youtube/B7Zp3d6xXWw
+http://10.0.0.2:35455/youtube/6IquAgfvYmc
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="[Youtube代理]",寰宇新闻台湾台
+http://10.0.0.2:35455/youtube/w87VGpgd90U
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="[Youtube代理]",東森新闻51
-http://10.0.0.2:35455/youtube/R2iMq5LKXco
+http://10.0.0.2:35455/youtube/2dfAzcDf8Zg
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="[Youtube代理]",东森财经新闻台
 http://10.0.0.2:35455/youtube/WHEPzbFA3hw
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="[Youtube代理]",57东森财经新闻台
-http://10.0.0.2:35455/youtube/LbS-xQ67fos
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png" group-title="[Youtube代理]",台视新闻
 http://10.0.0.2:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png" group-title="[Youtube代理]",民视新闻
@@ -249,7 +249,7 @@ http://10.0.0.2:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" tvg-logo="" group-title="[Youtube代理]",三立海外直播
 http://10.0.0.2:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="[Youtube代理]",三立新闻+
-http://10.0.0.2:35455/youtube/jlldIiGA5bU
+http://10.0.0.2:35455/youtube/oZdzzvxTfUY
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="[Youtube代理]",三立iNEWS
 http://10.0.0.2:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-id="6108" tvg-name="镜新闻" tvg-logo="" group-title="[Youtube代理]",镜新闻

@@ -395,11 +395,55 @@ http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[电信IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 
-#EXTINF:-1 group-title="[体育赛事]",体育赛事
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png",CCTV5+
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+#http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png",CCTV16
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+#http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕1
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕2
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕3
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕4
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕5
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕6
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕7
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕9
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕10
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕11
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕12
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕13
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕14
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕15
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕16
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕17
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕18
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕19
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225912/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[Youtube代理]",凤凰资讯
-http://10.0.0.2:35455/youtube/0K6C6Rv4RR4
+http://10.0.0.2:35455/youtube/HFib76ySpbU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="[Youtube代理]",中天新闻
 http://10.0.0.2:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="[Youtube代理]",中天新闻2台

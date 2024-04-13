@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.eu.org/pp.xml
 
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="[联通IPTV]",东方卫视
@@ -438,7 +438,7 @@ http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-19
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-20
-http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-21
 http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-22
@@ -481,8 +481,8 @@ http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-41
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 group-title="[咪咕直播]" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播-42
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="[Youtube代理]",凤凰资讯

@@ -222,7 +222,7 @@ http://10.0.0.1:5888/rtp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5.png" group-title="[电信IPTV]",CCTV5
 http://10.0.0.1:5888/rtp/239.45.1.69:5140
 #http://10.0.0.1:5888/rtp/239.45.3.54:5140
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5plus.png" group-title="[电信IPTV]",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5PLUS" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5plus.png" group-title="[电信IPTV]",CCTV5+
 http://10.0.0.1:5888/rtp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV6.png" group-title="[电信IPTV]",CCTV6
 http://10.0.0.1:5888/rtp/239.45.1.70:5140
@@ -391,7 +391,7 @@ http://10.0.0.1:5888/rtp/239.45.3.185:5140
 #EXTINF:-1  tvg-id="" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5.png" group-title="[体育直播]",CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1  tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5plus.png" group-title="[体育直播]",CCTV5+
+#EXTINF:-1  tvg-id="CCTV5+" tvg-name="CCTV5PLUS" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV5plus.png" group-title="[体育直播]",CCTV5+
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8

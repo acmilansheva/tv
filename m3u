@@ -421,7 +421,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Shenzhen8.png" group-title="[体育直播]",深圳体育健康
 
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/mlzq.png" group-title="[体育直播]",魅力足球
-http://223.10.11.237:8082/udp/239.1.1.75:8075
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/migu.png" group-title="[体育直播]" ,咪咕直播-1

@@ -259,7 +259,7 @@ http://10.0.0.1:5888/rtp/239.45.1.72:5140
  http://10.0.0.1:5888/rtp/239.45.1.73:5140
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVbqkj.png"  group-title="[电信IPTV]",CCTV兵器科技
 http://10.0.0.1:5888/rtp/239.45.1.74:5140
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVqstq.png"  group-title="[电信IPTV]",CCTV央视台球
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVystq.png"  group-title="[电信IPTV]",CCTV央视台球
 http://10.0.0.1:5888/rtp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVsjdl.png"  group-title="[电信IPTV]",CCTV世界地理
 http://10.0.0.1:5888/rtp/239.45.0.46:5140
@@ -277,7 +277,7 @@ http://10.0.0.1:5888/rtp/239.45.0.52:5140
 http://10.0.0.1:5888/rtp/239.45.0.53:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC2.png"  group-title="[电信IPTV]",CHC家庭影院
 http://10.0.0.1:5888/rtp/239.45.0.40:5140
-#EXTINF:-1 tvg-id="CHC动作影院" tvg-name="CHC动作影院" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC3.png"  group-title="[电信IPTV]",CHC动作影院
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC3.png"  group-title="[电信IPTV]",CHC动作电影
 http://10.0.0.1:5888/rtp/239.45.0.41:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC影迷电影.png"  group-title="[电信IPTV]",CHC影迷电影
 http://10.0.0.1:5888/rtp/239.45.0.42:5140
@@ -407,12 +407,8 @@ http://10.0.0.1:5888/rtp/239.45.3.139:5140
 http://10.0.0.1:5888/rtp/239.45.3.140:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/bestv.png" group-title="[电信IPTV]",百视通10
 http://10.0.0.1:5888/rtp/239.45.3.157:5140
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K测试
 http://10.0.0.1:5888/rtp/239.45.1.108:5140
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/崇明电视台.png" group-title="[电信IPTV]",崇明电视台
-http://10.0.0.1:5888/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="[电信IPTV]",嘉定电视台
 http://10.0.0.1:5888/rtp/239.45.3.185:5140
 

@@ -334,13 +334,13 @@ http://10.0.0.1:5888/rtp/239.45.3.239:5140
  #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Sansha.png" group-title="[电信IPTV]",三沙卫视
 http://10.0.0.1:5888/rtp/239.45.0.56:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BesTV4K.png" group-title="[电信IPTV]",百视通4K电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K电影
 http://10.0.0.1:5888/rtp/239.45.1.9:5140
 #http://10.0.0.1:5888/rtp/239.45.1.42:5140
 #http://10.0.0.1:5888/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BesTV4K.png" group-title="[电信IPTV]",百视通4K纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K纪实
 http://10.0.0.1:5888/rtp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BesTV4K.png" group-title="[电信IPTV]",百视通4K儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K儿童
 http://10.0.0.1:5888/rtp/239.45.1.1:5140
 #http://10.0.0.1:5888/rtp/239.45.1.11:5140
 
@@ -370,9 +370,9 @@ http://10.0.0.1:5888/rtp/239.45.0.54:5140
 http://10.0.0.1:5888/rtp/239.45.0.9:5140
 #EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/qcxj.png" group-title="[电信IPTV]",七彩戏剧
 http://10.0.0.1:5888/rtp/239.45.0.16:5140
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/klcd" group-title="[电信IPTV]",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/klcd.png" group-title="[电信IPTV]",快乐垂钓
 http://10.0.0.1:5888/rtp/239.45.3.12:5140
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/chapd" group-title="[电信IPTV]",茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/chapd.png" group-title="[电信IPTV]",茶频道
 http://10.0.0.1:5888/rtp/239.45.3.18:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="东方购物-1" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/dfgw.png" group-title="[电信IPTV]",东方购物-1

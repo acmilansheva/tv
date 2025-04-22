@@ -174,8 +174,6 @@ http://10.223.5.36:80/PLTV/88888888/224/3221226037/10000100000000060000000002233
 http://20.253.1.31:80/PLTV/88888888/224/3221226080/409864278.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7845,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jsxt.png" group-title="[联通IPTV]",金色学堂
 http://10.223.5.36:80/PLTV/88888888/224/3221225843/10000100000000060000000001128720_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E_w76tjg2izcEJGiQfVlnEA%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F4492970%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001128720_0%2CEND
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/qcxj.png" group-title="[联通IPTV]",七彩戏剧
-http://10.223.5.36:80/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ET_n8BAPQXMOOdlfCy2QCYw%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F6880440%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000002233114_0%2CEND
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/klcd.png" group-title="[联通IPTV]",快乐垂钓
 http://10.223.5.36:80/PLTV/88888888/224/3221225898/10000100000000060000000001580166_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdVAEbHRV54WN0xDUxlhDvg%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F4766930%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001580166_0%2CEND
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/chapd.png" group-title="[联通IPTV]",茶频道
@@ -390,8 +388,6 @@ http://10.0.1.1:5888/rtp/239.45.0.54:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jsxt.png" group-title="[电信IPTV]",金色学堂
 http://10.0.1.1:5888/rtp/239.45.0.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/qcxj.png" group-title="[电信IPTV]",七彩戏剧
-http://10.0.1.1:5888/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/klcd.png" group-title="[电信IPTV]",快乐垂钓
 http://10.0.1.1:5888/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/chapd.png" group-title="[电信IPTV]",茶频道

@@ -64,37 +64,37 @@ http://10.223.5.36:80/PLTV/88888888/224/3221226035/10000100000000060000000002233
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV17.png" group-title="[联通IPTV]",CCTV17
 http://10.223.5.36:80/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ELUyTo-TPEVpOnHp8dZ3GbA%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F5000041%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558692_0%2CEND
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV4K.png" group-title="[电信IPTV]",CCTV4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV4K.png" group-title="[联通IPTV]",CCTV4K
 http://10.223.3.142:80/PLTV/88888888/224/3221226065/409871179.smil/01.m3u8?fmt=ts2hls,531,01.m3u8,0,14671,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyzq.png" group-title="[电信IPTV]",CCTV风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyzq.png" group-title="[联通IPTV]",CCTV风云足球
 http://20.253.1.31:80/PLTV/88888888/224/3221226055/409862925.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVgefwq.png" group-title="[电信IPTV]",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVgefwq.png" group-title="[联通IPTV]",CCTV高尔夫网球
 http://20.253.1.31:80/PLTV/88888888/224/3221226059/409863988.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdszn.png" group-title="[电信IPTV]",CCTV电视指南
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdszn.png" group-title="[联通IPTV]",CCTV电视指南
 
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVbqkj.png"  group-title="[电信IPTV]",CCTV兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVbqkj.png"  group-title="[联通IPTV]",CCTV兵器科技
 http://20.253.1.34:80/PLTV/88888888/224/3221226057/409864176.smil/01.m3u8?fmt=ts2hls,144,01.m3u8,0,7843,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVystq.png"  group-title="[电信IPTV]",CCTV央视台球
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVystq.png"  group-title="[联通IPTV]",CCTV央视台球
 http://20.253.1.30:80/PLTV/88888888/224/3221226068/409863955.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVsjdl.png"  group-title="[电信IPTV]",CCTV世界地理
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVsjdl.png"  group-title="[联通IPTV]",CCTV世界地理
 http://20.253.1.30:80/PLTV/88888888/224/3221226070/409863966.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7845,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVnxss.png"  group-title="[电信IPTV]",CCTV女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVnxss.png"  group-title="[联通IPTV]",CCTV女性时尚
 http://20.253.1.34:80/PLTV/88888888/224/3221226072/409863977.smil/01.m3u8?fmt=ts2hls,144,01.m3u8,0,7843,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVhjjc.png"  group-title="[电信IPTV]",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVhjjc.png"  group-title="[联通IPTV]",CCTV怀旧剧场
 http://20.253.1.31:80/PLTV/88888888/224/3221226074/409864188.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyjc.png"  group-title="[电信IPTV]",CCTV风云剧场
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyjc.png"  group-title="[联通IPTV]",CCTV风云剧场
 http://20.253.1.30:80/PLTV/88888888/224/3221226082/409864221.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7845,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdyjc.png"  group-title="[电信IPTV]",CCTV第一剧场
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdyjc.png"  group-title="[联通IPTV]",CCTV第一剧场
 http://20.253.1.29:80/PLTV/88888888/224/3221226076/409864199.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7846,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyyy.png"  group-title="[电信IPTV]",CCTV风云音乐
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyyy.png"  group-title="[联通IPTV]",CCTV风云音乐
 http://20.253.1.34:80/PLTV/88888888/224/3221226061/409864256.smil/01.m3u8?fmt=ts2hls,144,01.m3u8,0,7842,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVyswhjp.png"  group-title="[电信IPTV]",CCTV央视文化精品
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVyswhjp.png"  group-title="[联通IPTV]",CCTV央视文化精品
 http://20.253.1.34:80/PLTV/88888888/224/3221226078/409864267.smil/01.m3u8?fmt=ts2hls,144,01.m3u8,0,7845,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC2.png"  group-title="[电信IPTV]",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC2.png"  group-title="[联通IPTV]",CHC家庭影院
 http://10.223.3.143:80/PLTV/88888888/224/3221226067/409872687.smil/01.m3u8?fmt=ts2hls,532,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC3.png"  group-title="[电信IPTV]",CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC3.png"  group-title="[联通IPTV]",CHC动作电影
 http://10.223.3.134:80/PLTV/88888888/224/3221226066/409862365.smil/01.m3u8?fmt=ts2hls,542,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC影迷电影.png"  group-title="[电信IPTV]",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC影迷电影.png"  group-title="[联通IPTV]",CHC影迷电影
 http://20.253.1.31:80/PLTV/88888888/224/3221226053/409862914.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
 
 
@@ -149,7 +149,7 @@ http://10.223.5.36:80/PLTV/88888888/224/3221225679/10000100000000060000000000012
 http://10.223.5.36:80/PLTV/88888888/224/3221225683/10000100000000060000000000012487_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EtrHC6Ht0q08gWhCFklPPZw%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F911989%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000012487_0%2CEND
 #EXTINF:-1 tvg-id="48" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Qinghai.png" group-title="[联通IPTV]",青海卫视
 http://10.223.5.36:80/PLTV/88888888/224/3221226051/384799278.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EykfSTjGyEi5t1DL1Jc_JcQ%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F6000101%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C384799278%2CEND
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Sansha.png" group-title="[电信IPTV]",三沙卫视
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Sansha.png" group-title="[联通IPTV]",三沙卫视
 http://20.253.1.30:80/PLTV/88888888/224/3221226063/409864210.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7844,0,0&tenantId=8601
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jyjs.png" group-title="[联通IPTV]",金鹰纪实
@@ -170,7 +170,7 @@ http://10.223.5.36:80/PLTV/88888888/224/3221225846/10000100000000060000000001128
 http://10.223.5.36:80/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E_-AKYTJNj1hmxuJDIY2eUw%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F3138605%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001020096_0%2CEND
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV4.png" group-title="[联通IPTV]",中国教育-4
 http://10.223.5.36:80/PLTV/88888888/224/3221226037/10000100000000060000000002233119_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb3bEV26shHtb85eJidfbKw%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F6876519%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000002233119_0%2CEND
-#EXTINF:-1 tvg-id="" tvg-name="CETV-早期教育" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV-早期教育.png" group-title="[电信IPTV]",CETV-早期教育
+#EXTINF:-1 tvg-id="" tvg-name="CETV-早期教育" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV-早期教育.png" group-title="[联通IPTV]",CETV-早期教育
 http://20.253.1.31:80/PLTV/88888888/224/3221226080/409864278.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7845,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jsxt.png" group-title="[联通IPTV]",金色学堂
 http://10.223.5.36:80/PLTV/88888888/224/3221225843/10000100000000060000000001128720_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36:80&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E_w76tjg2izcEJGiQfVlnEA%7EMEcOr4DpaaRyLsQkxGV23e9aQBR2e9mKRWfAl4tAaEDHTrQ1EBd6V7Y_1aFnfMPoA56MdMWq0SGCgT9kd0kyx5G8qqr7v-z53s9--pQz1kc%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20240107194443%2C325848%2C139.227.46.45%2C20240107194443%2CUmai%3ACHAN%2F4492970%40BESTV.SMG.SMG%2C325848%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001128720_0%2CEND

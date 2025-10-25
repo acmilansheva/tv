@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.eu.org/pp.xml","https://e.erw.cc/all.xml"," http://epg.51zmt.top:8000/e.xml","https://assets.livednow.com/epg.xml"
+#EXTM3U url-tvg=""https://e.erw.cc/all.xml"," http://epg.51zmt.top:8000/e.xml","https://assets.livednow.com/epg.xml","https://epg.112114.eu.org/pp.xml"
 
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Dongfang.png" group-title="[联通IPTV]",东方卫视

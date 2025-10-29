@@ -213,35 +213,33 @@ http://10.223.3.189/PLTV/88888888/224/3221225706/1000010000000006000000000007271
 
 
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Phoenix2.png" group-title="[Youtube代理]",凤凰资讯
-http://10.0.0.2:35455/youtube/BLaQVW5oUGU
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Phoenix2.png" group-title="[Youtube代理]",凤凰资讯
+http://10.0.0.2:35455/youtube/fN9uYWCjQaw
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CTI2.png" group-title="[Youtube代理]",中天新闻
 http://10.0.0.2:35455/youtube/vr3XyVCR4T0
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻2台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CTI2.png" group-title="[Youtube代理]",中天新闻2台
-http://10.0.0.2:35455/youtube/DM_PEM8GrIg
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CTV1.png" group-title="[Youtube代理]",中视新闻
 http://10.0.0.2:35455/youtube/TCnaIE_SAtM
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/TVBS1.png" group-title="[Youtube代理]",TVBS新闻
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/TVBS1.png" group-title="[Youtube代理]",TVBS新闻
 http://10.0.0.2:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/TVBS.png" group-title="[Youtube代理]",TVBS
 http://10.0.0.2:35455/youtube/o_-hSMgpAzs
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Global2.png" group-title="[Youtube代理]",寰宇新闻
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Global2.png" group-title="[Youtube代理]",寰宇新闻
 http://10.0.0.2:35455/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Global3.png" group-title="[Youtube代理]",寰宇新闻台湾台
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Global3.png" group-title="[Youtube代理]",寰宇新闻台湾台
 http://10.0.0.2:35455/youtube/w87VGpgd90U
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/EBC6.png" group-title="[Youtube代理]",東森新闻51
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/EBC6.png" group-title="[Youtube代理]",東森新闻51
 http://10.0.0.2:35455/youtube/V1p33hqPrUk
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/EBC7.png" group-title="[Youtube代理]",东森财经新闻台
+#EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/EBC7.png" group-title="[Youtube代理]",东森财经新闻台
 http://10.0.0.2:35455/youtube/1I2iq41Akmo
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/TTV2.png" group-title="[Youtube代理]",台视新闻
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/TTV2.png" group-title="[Youtube代理]",台视新闻
 http://10.0.0.2:35455/youtube/xL0ch83RAK8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/FTV1.png" group-title="[Youtube代理]",民视新闻
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/FTV1.png" group-title="[Youtube代理]",民视新闻
 http://10.0.0.2:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1 tvg-id="6108" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/SETNEWS.png" tvg-logo="" group-title="[Youtube代理]",三立海外直播
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/SETNEWS.png" tvg-logo="" group-title="[Youtube代理]",三立海外直播
 http://10.0.0.2:35455/youtube/hGJkDZDchYI
-#EXTINF:-1 tvg-id="6108" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/SETNEWS.png" group-title="[Youtube代理]",三立新闻+
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/SETNEWS.png" group-title="[Youtube代理]",三立新闻+
 http://10.0.0.2:35455/youtube/MV9mI0GChwo
-#EXTINF:-1 tvg-id="6108" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/MNEWS.png" group-title="[Youtube代理]",镜新闻
+#EXTINF:-1 tvg-id="" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/MNEWS.png" group-title="[Youtube代理]",镜新闻
 http://10.0.0.2:35455/youtube/5n0y6b0Q25o
 
 

@@ -29,7 +29,7 @@ http://10.0.1.1:5888/rtp/233.18.204.63:5140
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV1.png" group-title="[电信IPTV]",CCTV1
-http://10.0.1.1:5888/rtp/233.18.204.168:5140
+http://10.0.1.1:5888/rtp/233.18.204.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV2.png" group-title="[电信IPTV]",CCTV2
 http://10.0.1.1:5888/rtp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV3.png" group-title="[电信IPTV]",CCTV3

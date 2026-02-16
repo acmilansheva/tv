@@ -47,55 +47,55 @@ http://10.0.1.1:5888/rtp/233.18.204.73:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV8.png" group-title="[电信IPTV]",CCTV8
 http://10.0.1.1:5888/rtp/233.18.204.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV9.png" group-title="[电信IPTV]",CCTV9
-http://10.0.1.1:5888/rtp/:5140
+http://10.0.1.1:5888/rtp/233.18.204.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV10.png" group-title="[电信IPTV]",CCTV10
-http://10.0.1.1:5888/rtp/239.45.3.8:5140
+http://10.0.1.1:5888/rtp/233.18.204.76:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV11.png" group-title="[电信IPTV]",CCTV11
-http://10.0.1.1:5888/rtp/239.45.0.18:5140
+http://10.0.1.1:5888/rtp/233.18.204.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV12.png" group-title="[电信IPTV]",CCTV12
-http://10.0.1.1:5888/rtp/239.45.3.10:5140
+http://10.0.1.1:5888/rtp/233.18.204.78:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV13.png" group-title="[电信IPTV]",CCTV13
-http://10.0.1.1:5888/rtp/239.45.0.19:5140
+http://10.0.1.1:5888/rtp/233.18.204.79:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV14.png" group-title="[电信IPTV]",CCTV14
-http://10.0.1.1:5888/rtp/239.45.3.23:5140
+http://10.0.1.1:5888/rtp/233.18.204.80:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV15.png" group-title="[电信IPTV]",CCTV15
-http://10.0.1.1:5888/rtp/239.45.0.20:5140
+http://10.0.1.1:5888/rtp/233.18.204.81:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV16.png" group-title="[电信IPTV]",CCTV16
-http://10.0.1.1:5888/rtp/233.18.204.114:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV17.png" group-title="[电信IPTV]",CCTV17
-http://10.0.1.1:5888/rtp/239.45.3.52:5140
+http://10.0.1.1:5888/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/233.18.204.75CCTV17.png" group-title="[电信IPTV]",CCTV17
+http://10.0.1.1:5888/rtp/233.18.204.83:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTV4K.png" group-title="[电信IPTV]",CCTV4K
 http://10.0.1.1:5888/rtp/233.18.204.188:5140
 #EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyzq.png" group-title="[电信IPTV]",CCTV风云足球
-http://10.0.1.1:5888/rtp/239.45.1.75:5140
+http://10.0.1.1:5888/rtp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVgefwq.png" group-title="[电信IPTV]",CCTV高尔夫网球
-http://10.0.1.1:5888/rtp/239.45.1.72:5140
+http://10.0.1.1:5888/rtp/233.18.204.181:5140
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdszn.png" group-title="[电信IPTV]",CCTV电视指南
  http://10.0.1.1:5888/rtp/239.45.1.73:5140
 #EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVbqkj.png"  group-title="[电信IPTV]",CCTV兵器科技
-http://10.0.1.1:5888/rtp/239.45.1.74:5140
+http://10.0.1.1:5888/rtp/233.18.204.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVystq.png"  group-title="[电信IPTV]",CCTV央视台球
-http://10.0.1.1:5888/rtp/239.45.0.44:5140
+http://10.0.1.1:5888/rtp/233.18.204.177:5140
 #EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVsjdl.png"  group-title="[电信IPTV]",CCTV世界地理
-http://10.0.1.1:5888/rtp/239.45.0.46:5140
+http://10.0.1.1:5888/rtp/233.18.204.179:5140
 #EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVnxss.png"  group-title="[电信IPTV]",CCTV女性时尚
-http://10.0.1.1:5888/rtp/239.45.0.47:5140
+http://10.0.1.1:5888/rtp/233.18.204.180:5140
 #EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVhjjc.png"  group-title="[电信IPTV]",CCTV怀旧剧场
-http://10.0.1.1:5888/rtp/239.45.0.49:5140
+http://10.0.1.1:5888/rtp/233.18.204.182:5140
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyjc.png"  group-title="[电信IPTV]",CCTV风云剧场
-http://10.0.1.1:5888/rtp/239.45.0.50:5140
+http://10.0.1.1:5888/rtp/233.18.204.183:5140
 #EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVdyjc.png"  group-title="[电信IPTV]",CCTV第一剧场
-http://10.0.1.1:5888/rtp/239.45.0.51:5140
+http://10.0.1.1:5888/rtp/233.18.204.184:5140
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVfyyy.png"  group-title="[电信IPTV]",CCTV风云音乐
-http://10.0.1.1:5888/rtp/239.45.0.52:5140
+http://10.0.1.1:5888/rtp/233.18.204.185:5140
 #EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CCTVyswhjp.png"  group-title="[电信IPTV]",CCTV央视文化精品
-http://10.0.1.1:5888/rtp/239.45.0.53:5140
+http://10.0.1.1:5888/rtp/233.18.204.186:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC2.png"  group-title="[电信IPTV]",CHC家庭影院
-http://10.0.1.1:5888/rtp/239.45.0.40:5140
+http://10.0.1.1:5888/rtp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC3.png"  group-title="[电信IPTV]",CHC动作电影
-http://10.0.1.1:5888/rtp/239.45.0.41:5140
+http://10.0.1.1:5888/rtp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CHC影迷电影.png"  group-title="[电信IPTV]",CHC影迷电影
-http://10.0.1.1:5888/rtp/239.45.0.42:5140
+http://10.0.1.1:5888/rtp/233.18.204.175:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Jiangsu.png" group-title="[电信IPTV]",江苏卫视
 http://10.0.1.1:5888/rtp/233.18.204.226:5140
@@ -110,45 +110,45 @@ http://10.0.1.1:5888/rtp/233.18.204.218:5140
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Shenzhen.png" group-title="[电信IPTV]",深圳卫视
 http://10.0.1.1:5888/rtp/233.18.204.219:5140
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Anhui.png" group-title="[电信IPTV]",安徽卫视
-http://10.0.1.1:5888/rtp/239.45.1.120:5140
+http://10.0.1.1:5888/rtp/233.18.204.93:5140
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Dongnan.png" group-title="[电信IPTV]",东南卫视
-http://10.0.1.1:5888/rtp/239.45.1.121:5140
+http://10.0.1.1:5888/rtp/233.18.204.94:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Sichuan.png" group-title="[电信IPTV]",四川卫视
 http://10.0.1.1:5888/rtp/233.18.204.225:5140
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Chongqing0.png" group-title="[电信IPTV]",重庆卫视
-http://10.0.1.1:5888/rtp/239.45.1.84:5140
+http://10.0.1.1:5888/rtp/233.18.204.100:5140
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Henan.png" group-title="[电信IPTV]",河南卫视
-http://10.0.1.1:5888/rtp/239.45.0.3:5140
+http://10.0.1.1:5888/rtp/233.18.204.105:5140
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Yunnan.png" group-title="[电信IPTV]",云南卫视
-http://10.0.1.1:5888/rtp/239.45.0.4:5140
+http://10.0.1.1:5888/rtp/233.18.204.106:5140
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Guangxi.png" group-title="[电信IPTV]",广西卫视
-http://10.0.1.1:5888/rtp/239.45.0.5:5140
+http://10.0.1.1:5888/rtp/233.18.204.107:5140
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Jilin.png" group-title="[电信IPTV]",吉林卫视
-http://10.0.1.1:5888/rtp/239.45.0.6:5140
+http://10.0.1.1:5888/rtp/233.18.204.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Gansu.png" group-title="[电信IPTV]",甘肃卫视
-http://10.0.1.1:5888/rtp/239.45.0.15:5140
+http://10.0.1.1:5888/rtp/233.18.204.110:5140
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Hebei.png" group-title="[电信IPTV]",河北卫视
-http://10.0.1.1:5888/rtp/239.45.1.44:5140
+http://10.0.1.1:5888/rtp/233.18.204.103:5140
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Guizhou.png" group-title="[电信IPTV]",贵州卫视
-http://10.0.1.1:5888/rtp/239.45.1.80:5140
-#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Hainan.png" group-title="[电信IPTV]",海南卫视
-http://10.0.1.1:5888/rtp/239.45.1.81:5140
+http://10.0.1.1:5888/rtp/233.18.204.101:5140
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Hainan.png" group-title="[电信IPTV]",海南卫视
+http://10.0.1.1:5888/rtp/233.18.204.102:5140
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Jiangxi.png" group-title="[电信IPTV]",江西卫视
-http://10.0.1.1:5888/rtp/239.45.1.122:5140
+http://10.0.1.1:5888/rtp/233.18.204.95:5140
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Liaoning.png" group-title="[电信IPTV]",辽宁卫视
-http://10.0.1.1:5888/rtp/239.45.1.123:5140
+http://10.0.1.1:5888/rtp/233.18.204.96:5140
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Tianjin.png" group-title="[电信IPTV]",天津卫视
-http://10.0.1.1:5888/rtp/239.45.1.124:5140
+http://10.0.1.1:5888/rtp/233.18.204.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Heilongjiang.png" group-title="[电信IPTV]",黑龙江卫视
-http://10.0.1.1:5888/rtp/239.45.3.232:5140
+http://10.0.1.1:5888/rtp/233.18.204.90:5140
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Shandong.png" group-title="[电信IPTV]",山东卫视
-http://10.0.1.1:5888/rtp/239.45.3.180:5140
+http://10.0.1.1:5888/rtp/233.18.204.228:5140
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Hubei.png" group-title="[电信IPTV]",湖北卫视
-http://10.0.1.1:5888/rtp/239.45.3.239:5140
+http://10.0.1.1:5888/rtp/233.18.204.92:5140
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Sansha.png" group-title="[电信IPTV]",三沙卫视
-http://10.0.1.1:5888/rtp/239.45.0.56:5140
+http://10.0.1.1:5888/rtp/233.18.204.172:5140
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Qinghai.png" group-title="[电信IPTV]",青海卫视
-http://10.0.1.1:5888/rtp/239.45.0.37:5140
+http://10.0.1.1:5888/rtp/233.18.204.112:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Shanxi.png" group-title="[电信IPTV]",陕西卫视
 http://10.0.1.1:5888/rtp/233.18.204.223:5140
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Shanxi_.png" group-title="[电信IPTV]",山西卫视
@@ -162,43 +162,43 @@ http://10.0.1.1:5888/rtp/233.18.204.220:5140
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Xizang.png" group-title="[电信IPTV]",西藏卫视
 http://10.0.1.1:5888/rtp/233.18.204.222:5140
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Yanbian.png" group-title="[电信IPTV]",延边卫视
-http://10.0.1.1:5888/rtp/239.45.0.39:5140
+http://10.0.1.1:5888/rtp/233.18.204.155:5140
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K电影
-http://10.0.1.1:5888/rtp/239.45.1.9:5140
+http://10.0.1.1:5888/rtp/233.18.204.169:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K纪实
-http://10.0.1.1:5888/rtp/239.45.1.10:5140
+http://10.0.1.1:5888/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/BESTV4K.png" group-title="[电信IPTV]",百视通4K儿童
-http://10.0.1.1:5888/rtp/239.45.1.1:5140
+http://10.0.1.1:5888/rtp/233.18.204.171:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/Beijing5.png" group-title="[电信IPTV]",纪实科教
 http://10.0.1.1:5888/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jyjs.png" group-title="[电信IPTV]",金鹰纪实
-http://10.0.1.1:5888/rtp/239.45.1.45:5140
+http://10.0.1.1:5888/rtp/233.18.204.104:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/fztd.png"  group-title="[电信IPTV]",法治天地
-http://10.0.1.1:5888/rtp/239.45.1.46:5140
+http://10.0.1.1:5888/rtp/233.18.204.49:5140
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/hhxd.png" group-title="[电信IPTV]",哈哈炫动
-http://10.0.1.1:5888/rtp/239.45.1.55:5140
+http://10.0.1.1:5888/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/dmxc.png" group-title="[电信IPTV]",动漫秀场
-http://10.0.1.1:5888/rtp/239.45.3.134:5140
+http://10.0.1.1:5888/rtp/233.18.204.46:5140
 #EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/kakushaoer.png" group-title="[电信IPTV]",卡酷动画
-http://10.0.1.1:5888/rtp/239.45.0.8:5140
+http://10.0.1.1:5888/rtp/233.18.204.109:5140
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/yxfy.png" group-title="[电信IPTV]",游戏风云
-http://10.0.1.1:5888/rtp/239.45.3.131:5140
+http://10.0.1.1:5888/rtp/233.18.204.44:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV1.png" group-title="[电信IPTV]",中国教育-1
-http://10.0.1.1:5888/rtp/239.45.1.125:5140
+http://10.0.1.1:5888/rtp/233.18.204.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV4.png" group-title="[电信IPTV]",中国教育-4
-http://10.0.1.1:5888/rtp/239.45.0.21:5140
+http://10.0.1.1:5888/rtp/233.18.204.111:5140
 #EXTINF:-1 tvg-id="" tvg-name="CETV-早期教育" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/CETV-早期教育.png" group-title="[电信IPTV]",CETV-早期教育
-http://10.0.1.1:5888/rtp/239.45.0.54:5140
+http://10.0.1.1:5888/rtp/233.18.204.187:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/jsxt.png" group-title="[电信IPTV]",金色学堂
-http://10.0.1.1:5888/rtp/239.45.0.9:5140
+http://10.0.1.1:5888/rtp/233.18.204.66:5140
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/klcd.png" group-title="[电信IPTV]",快乐垂钓
-http://10.0.1.1:5888/rtp/239.45.3.12:5140
+http://10.0.1.1:5888/rtp/233.18.204.42:5140
 #EXTINF:-1 tvg-id="" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/chapd.png" group-title="[电信IPTV]",茶频道
-http://10.0.1.1:5888/rtp/239.45.3.18:5140
+http://10.0.1.1:5888/rtp/233.18.204.43:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="东方购物-1" tvg-logo="https://raw.githubusercontent.com/acmilansheva/tv/main/img/dfgw.png" group-title="[电信IPTV]",东方购物-1
 http://10.0.1.1:5888/rtp/239.45.3.74:5140
